@@ -5,7 +5,7 @@
 pkg install nzbget
 ```
 
-2) In config file /usr/local/etc/nzbget.conf
+2) In config file `/usr/local/etc/nzbget.conf` set
 ```bash
 WebDir=/usr/local/share/nzbget/webui
 ConfigTemplate=/usr/local/share/nzbget/nzbget.conf
